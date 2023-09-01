@@ -1,0 +1,45 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [30,2],
+    "Body": [
+     "","en-US",
+     "Failed","Failed",
+     "Success","Success",
+     "Timestamp","Timestamp",
+     "Name","Name",
+     "Message","Image description",
+     "Active","Active",
+     "SourceName","Source Variable",
+     "Acked","Acked",
+     "Severity","Severity",
+     "Confirmed","Confirmed",
+     "Password","Password",
+     "Change User","Change User",
+     "Old password","Old password",
+     "New password","New password",
+     "ChangePasswordFormSuccessMessage","Password changed successfully",
+     "Confirm password","Confirm password",
+     "Your password has expired. Please enter a new one.","Your password has expired. Please enter a new one.",
+     "ChangeUserFormOutputSuccessMessage","Change User successful",
+     "Change password","Change password",
+     "ChangeUserFormOutputErrorMessage","Authentication failed",
+     "ChangeUserFormOutputPasswordExpired","Password expired",
+     "ChangePasswordFormWrongOldPasswordMessage","Wrong old password",
+     "ChangePasswordFormPasswordAlreadyUsedMessage","Password already used",
+     "ChangePasswordFormPasswordChangedTooRecentlyMessage","Password changed too recently",
+     "ChangePasswordFormPasswordTooShortMessage","Password too short",
+     "ChangePasswordFormUserNotFoundMessage","User not found",
+     "ChangePasswordFormUnsupportedOperationMessage","Unsupported operation",
+     "ChangePasswordFormPasswordMismatchMessage","Passwords do not match",
+     "Delay Button","Delay Button"
+    ]
+   }
